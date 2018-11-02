@@ -1,0 +1,27 @@
+
+
+.img-paralax {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img-paralax img{
+    min-width: 300px;
+    background-image: url('images/nurtanio-img.jpg');
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tentang-content {
+    width: 100%;
+    background-color:white;
+}
+.tentang-content .content {
+    text-align: justify;
+    font-size: 100%;
+    padding: 50px;
+}
